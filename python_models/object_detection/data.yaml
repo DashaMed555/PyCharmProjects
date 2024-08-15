@@ -1,0 +1,13 @@
+train: Fishes2/train/images
+val: Fishes2/valid/images
+test: Fishes2/test/images
+
+nc: 1
+names: ['fish']
+
+roboflow:
+  workspace: object-recognition-ykute
+  project: fishes-top3c
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/object-recognition-ykute/fishes-top3c/dataset/2
