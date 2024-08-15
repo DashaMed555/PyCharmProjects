@@ -1,0 +1,7 @@
+path: Mushrooms
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 21
+names: ['Agaricus bisporus', 'Agaricus blazei Murill', 'Agrocybe aegerita', 'Armillaria mellea', 'Auricularia auricula', 'Boletus', 'Cantharellus cibarius', 'Clitocybe maxima', 'Collybia albuminosa', 'Coprinus comatus', 'Cordyceps militaris', 'Dictyophora indusiate', 'Flammulina velutiper', 'Hericium erinaceus', 'Hypsizygus marmoreus', 'Lentinus edodes', 'Morchella esculenta', 'Pleurotus citrinopileatus', 'Pleurotus cystidiosus', 'Pleurotus eryngii', 'Pleurotus ostreatus']
